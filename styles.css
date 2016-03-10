@@ -1,13 +1,25 @@
 body { 
-      background-color: green;
+      background-image: url(Street_Ball_Wallpapers.png);background-size: cover;
+	  background-repeat: no-repeat;
+	
 	  
 }
 h1 { 
-      color: blue;
+      color: white;
 }
 #myId { 
       color: green;
 }
 .myClass { 
       color: red;
+}
+h3 {
+	color: white;
+}
+h2 {
+	color: white;
+	font-size: 18px;
+	font-style: italic;
+	text-shadow: 1px 1px #000000;
+}
 }
